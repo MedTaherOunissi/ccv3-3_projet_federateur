@@ -8,7 +8,7 @@ Dans cette partie nous trouvons toute la documentation du projet:
 # organisation de l'équipe
 Nous avons convenu que le projet sera divisé sur 3 équipe:
 - K8s: se charge du déploiment du cluster k8s et de le maintenir ainsi que les ressources correspendantes (doc, code, ...)
-  - membres: 
+  - membres: Mohamed Taher Ounissi
 - infra: se charge du déploiement des ressources k8s sur le cluster et bien evidement leur maintient (code, doc, ...)
   - membres:
 - images: se charge de fournir, builder, stocker et maintenir (Dockerfile, prérequit, ...) les différents images docker du projet.
